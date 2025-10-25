@@ -115,6 +115,22 @@ GROUP BY c.company
 ORDER BY valuation_to_funding_ratio DESC
 LIMIT 5;
 ```
+## 🖼️ Dashboard Screenshots
+
+# 🦄Unicorn Info
+![Unicorn Info](Screenshots/Screenshot%202025-10-25%20105935.png)
+
+# 💰 Funding & Valuation
+![Funding & Valuation](Screenshots/Screenshot%202025-10-25%20105958.png)
+
+# 📈 Became Unicorn
+![Became Unicorn](Screenshots/Screenshot%202025-10-25%20110013.png)
+
+# 🌐 Most Unicorn
+![Most Unicorn](Screenshots/Screenshot%202025-10-25%20110029.png)
+
+# 💵 Most Investors
+![Most Investors](Screenshots/Screenshot%202025-10-25%20110045.png)
 
 ---
 
@@ -161,6 +177,9 @@ LIMIT 5;
 Investors and entrepreneurs should target emerging markets and tech-driven sectors while focusing on post-Series-A funding stages for faster valuation growth.
 
 ---
+# 🏁 Conclusion
+
+This analysis demonstrates how SQL + Power BI can uncover meaningful insights from startup funding data, helping investors and analysts understand global unicorn trends.
 
 ---
 
